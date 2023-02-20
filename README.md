@@ -1,2 +1,2 @@
 # power-bi
-# This is a financial analysis of simple sales data
+## This is a financial analysis of simple sales data
